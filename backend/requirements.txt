@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+speechrecognition
+wikipedia
+gTTS
+pydub
+aiofiles
+python-dotenv
