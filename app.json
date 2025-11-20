@@ -6,7 +6,7 @@
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
     "scheme": "voiceaiassistant",
-    "userInterfaceStyle": "automatic",
+    "userInterfaceStyle": "adutomatic",
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true
